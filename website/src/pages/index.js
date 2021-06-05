@@ -12,7 +12,7 @@ const features = [
     imageUrl: '',//TODO: add .svg images in img folder
     description: (
       <>
-        Remx is designed from the ground up to be the state meneger
+        Remx is designed from the ground up to be the state manager
         for all your websites and apps that&apos;s easy to install and use.
       </>
     ),
